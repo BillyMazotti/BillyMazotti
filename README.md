@@ -5,5 +5,5 @@
 
 - 💻 I’m looking for an internship in mechanical engineeirng or mechatronics with a focus on automatic and autonomous systems
 - 📡 I am programming sceicne flight software for a computer vision CubeSat mission
-- 🌱 I’m currently my C++ skills through an online course in Algorithms and Data Structures
+- 🌱 I’m improving currently my C++ skills through an online course in Algorithms and Data Structures
 - 📚 I will be pursuing a MS degree in automatic and autonomous control systems this fall
