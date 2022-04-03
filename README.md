@@ -9,6 +9,6 @@
 * 🔧 Projects Coming Soon: 
   * Generating (and trainign with) Mask R-CNN and YOLO Datasets from Labelbox (Python, Jupyter)
   * Synthetic Image Dataset Generation (Blender, Python, Instance Segmentaiton)
-*🐍 Current Learning: 
+* 🐍 Current Learning: 
   * Python (Algorithms and Data Structures)
   * C++ (Basics, OOP)
