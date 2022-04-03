@@ -7,7 +7,7 @@
 * 📡 I programmed flight software for a low-Earth orbit test of an object detection system tailerd for robotic inspection of the International Space Station (Python, OpenCV, Mask R-CNN, YOLO)
 * 📚 I will be pursuing a Masters degree in Autonomous Systems and Control fall 2022
 * 🔧 *Projects Coming Soon* 
-  * Generating (and trainign with) Mask R-CNN and YOLO Datasets from Labelbox (Python, Jupyter)
+  * Generating (and training with) Mask R-CNN and YOLO Datasets from Labelbox (Python, Jupyter)
   * Synthetic Image Dataset Generation (Blender, Python, Instance Segmentaiton)
 * 🐍 *Current Learning*
   * Python (Algorithms and Data Structures)
