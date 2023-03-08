@@ -7,7 +7,7 @@
 * 🚜 I have programmed perception algorithms enhancing computational-efficiency and safety for autonomous tractor operations
 * 📡 I have trained ConNets and programmed flight software for a low-Earth orbit test of an object detection system tailerd for robotic inspection of the International Space Station (Python, OpenCV, PyTorch, Mask R-CNN, YOLO)
 * 📚 I ame pursuing a Masters degree in Aerosapce Engineering with a focus on Autonomous Systems and Control at the University of Michigan
-* 🔧 **Projects In Progress** 
+* 🔧 **Repository Projects In Progress** 
   * UAV Trajectory Coverage in Real-World environments 
 * 🐍 **Currently Learning**
   * Python (Algorithms and Data Structures)
