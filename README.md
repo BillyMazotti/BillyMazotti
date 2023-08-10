@@ -8,6 +8,4 @@
 * 📡 I have trained ConNets and programmed flight software for a low-Earth orbit test of an object detection system tailerd for robotic inspection of the International Space Station (Python, OpenCV, PyTorch, Mask R-CNN, YOLO)
 * 🔧 **Repository Projects In Progress** 
   * UAV Trajectory Coverage in Real-World environments 
-* 🐍 **Currently Learning**
-  * Python (Algorithms and Data Structures)
-  * C++ (Basics, OOP)
+* :robot: I programming experience in ROS for C++ and Python
