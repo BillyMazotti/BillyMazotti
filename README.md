@@ -4,7 +4,7 @@
 ## I'm an incoming  Internship Experience in Robotics
 
 * :books: I have a Masters in Robotics from University of Michigan where I studied/researched:
-* Robotic Perception: 
+&nbsp;&nbsp;&nbsp; * Robotic Perception: 
 * Human-Robotic Interaction: 
 * Air Traffic Simulations: 
 * :robot: I have programming experience in ROS/ROS2 for C++ and Python
