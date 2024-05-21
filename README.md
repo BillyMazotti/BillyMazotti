@@ -3,7 +3,7 @@
 
 ## I'm an incoming engineer at Caterpillar Robotics
 
-* :books: I earned a master's degree in Robotics from the U of Mand bachelor's degrees in Mechanical Engineering and Aerosapce Engineering from the UC Davis. At each universtiy, I worked on projects in the following areas:
+* :books: I earned a master's degree in Robotics from the University of Michigan and bachelor's degrees in Mechanical Engineering and Aerosapce Engineering from UC Davis. At each universtiy, I worked on projects in the following areas:
     * Robotic Perception: [RefCOCO-3DS](https://github.com/BillyMazotti/RefCOCO-3DS), [iSDF_ROB599](https://github.com/BillyMazotti/iSDF_ROB599), [TwilightSLAM](https://github.com/TwilightSLAM/Twilight_SuperPoint_SLAM), [InspectionSatelliteSoftware](https://github.com/XiaoBaoBao719/InspectionSatelliteSoftware)
     * Human-Robot Interaction: [OSAM-Arm-Simulation-using-Unreal-Engine-and-ROS](https://github.com/BillyMazotti/OSAM-Arm-Simulation-using-Unreal-Engine-and-ROS/tree/main)
     * Air Traffic Management: [uav_trajectory_coverage](https://github.com/BillyMazotti/uav_trajectory_coverage)
