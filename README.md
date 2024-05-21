@@ -1,9 +1,12 @@
 # Hi there, I'm Billy
 
 
-## I'm a Graduate Student with Research and Internship Experience in Robotics
+## I'm an incoming  Internship Experience in Robotics
 
-* :books: I am pursuing a Masters degree in Robotics with a focus on Robotic Perception and Human-Robotic Interaction at the University of Michigan
+* :books: I have a Masters in Robotics from University of Michigan where I studied/researched:
+* Robotic Perception: 
+* Human-Robotic Interaction: 
+* Air Traffic Simulations: 
 * :robot: I have programming experience in ROS/ROS2 for C++ and Python
 * :car: I have worked on path following controllers for drive-by-wire on-road vehciles
 * :tractor: I have programmed perception algorithms for autonomous tractors
