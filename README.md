@@ -1,7 +1,7 @@
 # Hi there, I'm Billy
 
 
-## I'm an incoming  Internship Experience in Robotics
+## I'm an incoming engineer at Caterpillar Robotics
 
 * :books: I earned a master's degree in Robotics from the U of Mand bachelor's degrees in Mechanical Engineering and Aerosapce Engineering from the UC Davis. At each universtiy, I worked on projects in the following areas:
     * Robotic Perception: [RefCOCO-3DS](https://github.com/BillyMazotti/RefCOCO-3DS), [iSDF_ROB599](https://github.com/BillyMazotti/iSDF_ROB599), [TwilightSLAM](https://github.com/TwilightSLAM/Twilight_SuperPoint_SLAM), [InspectionSatelliteSoftware](https://github.com/XiaoBaoBao719/InspectionSatelliteSoftware)
